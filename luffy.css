@@ -11,7 +11,7 @@ body {
     justify-content: center;
     margin:0;
     padding:0;
-    align-items: center;
+    align-items: flex-start;
 }
 
 /*--Class named container created to use with div tag--*/
@@ -28,7 +28,7 @@ body {
  
 /* The keyframe is used for glowing color transition effect */
 h1 {
-    font-size: 2rem;
+    font-size: 2.25rem;
     font-color: #ffcc00;
     font-weight: bold;
     text-shadow: 2px 2px 8px #000;
@@ -48,7 +48,7 @@ h1 {
 
 
 
-h2 {font-size: 8pxrem;
+h2 {font-size: 1.5rem;
     font-color: #aaffcc;
     margin-top: 30px;
     margin-bottom: 10px;
@@ -56,7 +56,7 @@ h2 {font-size: 8pxrem;
 }
 
 p {
-    font-size: 8px;
+    font-size: 1.1rem;
     line-height: 1.6;
     margin-bottom: 20px;
     text-shadow: 1px 1px 3px #00000088;
@@ -65,7 +65,7 @@ p {
 
 ul, ol {
     padding-left: 25px;
-    font-size: 8px;
+    font-size: 1rem;
     margin-top: 15px;
     line-height: 1.5;
 }
